@@ -1,2 +1,3 @@
-cache/
-data/
+/cache
+/single_tutorial/data
+/CITE-seq_study/data
